@@ -1,0 +1,9 @@
+# Ignore virtual environment in 'project' folder
+/project/
+project/*
+
+# Ignore Python compiled files in 'app' directory
+/app/__pycache__/
+
+
+
